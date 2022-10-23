@@ -1,0 +1,12 @@
+.header {
+  height: 80px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-right: 25px;
+}
